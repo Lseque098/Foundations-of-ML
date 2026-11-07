@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+matplotlib
+scipy
+scikit-learn
+torch
+category_encoders
+ipykernel
